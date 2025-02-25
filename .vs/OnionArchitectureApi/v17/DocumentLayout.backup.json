@@ -1,12 +1,326 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7C4D79-7184-4EA1-B44C-4B5587B43EFB}|Presentation\\OnionArchitectureApi\\OnionArchitectureApi.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\presentation\\onionarchitectureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7C4D79-7184-4EA1-B44C-4B5587B43EFB}|Presentation\\OnionArchitectureApi\\OnionArchitectureApi.csproj|solutionrelative:presentation\\onionarchitectureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7C4D79-7184-4EA1-B44C-4B5587B43EFB}|Presentation\\OnionArchitectureApi\\OnionArchitectureApi.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\presentation\\onionarchitectureapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D7C4D79-7184-4EA1-B44C-4B5587B43EFB}|Presentation\\OnionArchitectureApi\\OnionArchitectureApi.csproj|solutionrelative:presentation\\onionarchitectureapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7C4D79-7184-4EA1-B44C-4B5587B43EFB}|Presentation\\OnionArchitectureApi\\OnionArchitectureApi.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\presentation\\onionarchitectureapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7C4D79-7184-4EA1-B44C-4B5587B43EFB}|Presentation\\OnionArchitectureApi\\OnionArchitectureApi.csproj|solutionrelative:presentation\\onionarchitectureapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\infrastructure\\onionarchitectureapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|solutionrelative:infrastructure\\onionarchitectureapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\infrastructure\\onionarchitectureapi.persistence\\contexts\\onionarchitectureappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|solutionrelative:infrastructure\\onionarchitectureapi.persistence\\contexts\\onionarchitectureappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\infrastructure\\onionarchitectureapi.persistence\\configurations\\commonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|solutionrelative:infrastructure\\onionarchitectureapi.persistence\\configurations\\commonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\infrastructure\\onionarchitectureapi.persistence\\concreters\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|solutionrelative:infrastructure\\onionarchitectureapi.persistence\\concreters\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\abstractions\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\abstractions\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\infrastructure\\onionarchitectureapi.persistence\\concreters\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|solutionrelative:infrastructure\\onionarchitectureapi.persistence\\concreters\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\infrastructure\\onionarchitectureapi.persistence\\concreters\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8E810B-DCCD-4C6F-9E72-7B37FC86CDBC}|Infrastructure\\OnionArchitectureApi.Persistence\\OnionArchitectureApi.Persistence.csproj|solutionrelative:infrastructure\\onionarchitectureapi.persistence\\concreters\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\globalexception\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\globalexception\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\globalexception\\globalappexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\globalexception\\globalappexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\globalexception\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\globalexception\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\profiles\\commonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\profiles\\commonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\dtos\\commondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\dtos\\commondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchitectureapi.application\\abstractions\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FD90E-A250-44EA-B184-A7D39F5153B2}|Core\\OnionArchitectureApi.Application\\OnionArchitectureApi.Application.csproj|solutionrelative:core\\onionarchitectureapi.application\\abstractions\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F6018-1BDB-4E90-8D82-3ABF69ACB23B}|Core\\OnionArchtitectureApi.Domain\\OnionArchtitectureApi.Domain.csproj|c:\\users\\gulco\\source\\repos\\onionarchitectureapi\\core\\onionarchtitectureapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F6018-1BDB-4E90-8D82-3ABF69ACB23B}|Core\\OnionArchtitectureApi.Domain\\OnionArchtitectureApi.Domain.csproj|solutionrelative:core\\onionarchtitectureapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Presentation\\OnionArchitectureApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\OnionArchitectureApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Presentation\\OnionArchitectureApi\\appsettings.json",
+              "RelativeToolTip": "Presentation\\OnionArchitectureApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T08:40:16.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Presentation\\OnionArchitectureApi\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "Presentation\\OnionArchitectureApi\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Presentation\\OnionArchitectureApi\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "Presentation\\OnionArchitectureApi\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:39:51.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Presentation\\OnionArchitectureApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\OnionArchitectureApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Presentation\\OnionArchitectureApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\OnionArchitectureApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:39:33.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommonService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Services\\CommonService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Services\\CommonService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Services\\CommonService.cs",
+              "RelativeToolTip": "Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Services\\CommonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:38:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Configurations\\CommonConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OnionArchitectureApi.Persistence\\Configurations\\CommonConfiguration.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Configurations\\CommonConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\OnionArchitectureApi.Persistence\\Configurations\\CommonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:37:59.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\WriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:37:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\OnionArchitectureApi.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:35:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:34:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalAppException.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalAppException.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalAppException.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalAppException.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\GlobalException\\GlobalAppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:34:02.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\GlobalException\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\GlobalException\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\GlobalException\\ErrorDetails.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\GlobalException\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:33:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Profiles\\CommonProfile.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\Profiles\\CommonProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Profiles\\CommonProfile.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\Profiles\\CommonProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:33:36.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommonDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Dtos\\CommonDto.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\Dtos\\CommonDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Dtos\\CommonDto.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\Dtos\\CommonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:33:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Abstractions\\Services\\ICommonService.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\Abstractions\\Services\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Abstractions\\Services\\ICommonService.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\Abstractions\\Services\\ICommonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:32:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:32:05.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\OnionArchitectureApi.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:31:38.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnionArchitectureAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Contexts\\OnionArchitectureAppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OnionArchitectureApi.Persistence\\Contexts\\OnionArchitectureAppDbContext.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\Contexts\\OnionArchitectureAppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\OnionArchitectureApi.Persistence\\Contexts\\OnionArchitectureAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:30:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OnionArchitectureApi.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Infrastructure\\OnionArchitectureApi.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\OnionArchitectureApi.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:28:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchtitectureApi.Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\OnionArchtitectureApi.Domain\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\OnionArchitectureApi\\Core\\OnionArchtitectureApi.Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\OnionArchtitectureApi.Domain\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:23:38.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
